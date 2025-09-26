@@ -3,7 +3,7 @@
 📧 **Email:** [vrushabhbhabal1729@gmail.com](mailto:vrushabhbhabal1729@gmail.com)  
 📱 **Phone:** +91 9619916352  
 🔗 **LinkedIn:** [linkedin.com/in/vrushabh-bhabal-20161b222](https://www.linkedin.com/in/vrushabh-bhabal-20161b222)  
-🗂 **Portfolio:** [Google Drive Projects](https://drive.google.com/drive/folders/1Khy7pIoJWLC3W6NXjNqK0PwsYKc6awA9?usp=drive_link)
+🗂 **Portfolio:** [Google Drive Link](https://drive.google.com/drive/folders/1Khy7pIoJWLC3W6NXjNqK0PwsYKc6awA9?usp=drive_link)
 
 ---
 
