@@ -3,6 +3,7 @@
 📧 **Email:** [vrushabhbhabal1729@gmail.com](mailto:vrushabhbhabal1729@gmail.com)  
 📱 **Phone:** +91 9619916352  
 🔗 **LinkedIn:** [linkedin.com/in/vrushabh-bhabal-20161b222](https://www.linkedin.com/in/vrushabh-bhabal-20161b222)  
+🗂 **Portfolio:** [Google Drive Projects](https://drive.google.com/drive/folders/1Khy7pIoJWLC3W6NXjNqK0PwsYKc6awA9?usp=drive_link)
 
 ---
 
@@ -14,7 +15,7 @@ Aspiring Game Developer with a strong passion for game programming. Eager to con
 ## 🎓 Education
 - **BCA Game Development** (2023–2026)  
   *Seamedu, Ajeenkya D Y Patil University*  
-  GPA: 8.55 (expected graduation: 2026)
+  GPA: **8.55** (expected graduation: 2026)
 
 ---
 
@@ -26,11 +27,9 @@ While I haven’t held a formal industry position yet, I’ve been actively buil
 ## 🛠 Skills
 - Programming: **C#, C++**
 - Engines: **Unity, Unreal Engine**
-- Game Development & Testing
-- Strategic Thinking & Teamwork
-- Creative Writing
-- Multilingual Communication
-- Fast Typing
+- Areas: **Game Development, Game AI, Game Programming, Testing**
+- Soft Skills: **Strategic Thinking, Teamwork, Multilingual Communication**
+- Typing Speed: **60 WPM**
 
 ---
 
